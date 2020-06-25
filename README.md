@@ -1,5 +1,5 @@
 ## Chao Kong(孔超)
-**Lecturer, School of Computer and Information, Anhui Polytechnic University**
+**Associate Professor, Master Supervisor, School of Computer and Information, Anhui Polytechnic University**
 
 Position: Deputy director of department data science and engineering and discipline leader of Artificial Intelligence
 
@@ -92,5 +92,10 @@ School of Mathematics and Computer Science
 * Mobile Cloud Computing (2018 Autumn)
 ***
 * Data Ming (2017 Autumn)
+
+### ***Academic Services***
+* Conference Session Chair: CSoNet 2019
+* Journal Reviewer: IEEE Accsee (2020), Journal of East China Normal University (Natural Sciences)
+
 
 
