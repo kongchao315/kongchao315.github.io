@@ -55,11 +55,15 @@ School of Mathematics and Computer Science
 * **2015**
   + ACID Encountering the CAP Theorem: Two Bank Case Studies. **Chao Kong**, Ming Gao, Weining Qian, Minqi Zhou, Xueqing Gong, Rong Zhang, Aoying Zhou. 12th Web Information System and Application Conference (WISA 2015, Full Paper)
   
-### ***Selected Awards and Scholarships***
+### ***Selected Awards and Guidance of Subject Contest***
 * June 2020: AHPU 2020 Talent Cultivation Program
 * April 2020: 
   + ***Honorable Mention*** Prize in MCM/ICM
   + ***Successful Participant*** Prize in MCM/ICM 
   + ***Successful Participant*** Prize in MCM/ICM 
+* April 2029: 
+  + ***Meritorious Winner*** Prize in MCM/ICM
+  + ***Successful Participant*** Prize in MCM/ICM 
+  + ***Third*** Prize in Mathematical Modeling Contest for College Students
 
 
