@@ -33,7 +33,7 @@ School of Mathematics and Computer Science
 
 **Supervisor:** Prof. Yong Xu
 
-### ***Selected Publications***
+### ***Selected Publications***[DBLP](https://dblp.org/pers/hd/k/Kong:Chao)
 
 * **2020**
   + DEM: Deep Entity Matching across Heterogeneous Information Networks. **Chao Kong**, Baoxiang Chen, Liping Zhang, Journal of Computer Science and Technology (**JCST**, Research Article)
