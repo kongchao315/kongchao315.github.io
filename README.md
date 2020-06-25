@@ -16,11 +16,12 @@ The Curriculum Vitae (CV) of Chao Kong can be found [HERE](url)
 **Ph.D., East China Normal University** (Sept 2012-June 2017)
 
 School of Software Engineering
-Major: Software Engineering (Data Science and Engineering) (Overall GPA: 90.29/100 Major GPA: 90.44/100)
-Supervisor: Prof. Xiaofeng He
-Thesis: Algorithmic Studies on Relation Extraction from Chinese Short Texts
-Won National Scholarship for PhD Students three times (2016, 2017, 2019), ECNU President Scholarship (2019) and Shanghai Outstanding Graduate (2020) 
 
+**Major:** Software Engineering (Data Science and Engineering) 
+
+**Supervisor:** Prof. Aoying Zhou
+
+**Thesis:** Entity Matching across Multiple Heterogeneous Open Data Sources
 
 
 
