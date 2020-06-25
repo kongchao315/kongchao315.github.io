@@ -41,6 +41,10 @@ School of Mathematics and Computer Science
 * **2019**
   + EnAli: entity alignment across multiple heterogeneous data sources. **Chao Kong**, Ming Gao, Chen Xu, Yunbin Fu, Weining Qian, Aoying Zhou. Frontiers of Computer Science(**FCS**, Research Article)
   + Drug Abuse Detection via Broad Learning. **Chao Kong**, Jianye Liu, Hao Li, Ying Liu, Haibei Zhu, Tao Liu. Web Information Systems and Applications - 16th International Conference (WISA 2019, Full Paper)
+  + Link Prediction on Dynamic Heterogeneous Information Networks. **Chao Kong**, Hao Li, Liping Zhang, Haibei Zhu, Tao Liu. Computational Data and Social Networks - 8th International Conference (CSoNet 2019, Full Paper)
+  + Anonymized User Linkage Under Differential Privacy. **Chao Kong**, Hao Li, Haibei Zhu, Yu Xiu, Jianye Liu, Tao Liu. Soft Computing in Data Science - 5th International Conference (SCDS 2019, Full Paper)
+  + Multi-agent Negotiation in Real-time Bidding. **Chao Kong**, Haibei Zhu, Hao Li, Jianye Liu, Zheng Wang, Yinliang Qian. 2019 IEEE International Conference on Consumer Electronics - Taiwan (ICCE-TW 2019, Full Paper)
+  + An Effective Construction Pattern of Wireless Sensor Network for Water Quality Detection. Baoxiang Chen, **Chao Kong<sup>*</sup>**, Yu Xiu, Liping Zhang, Sanming Liu, Tao Liu. 2019 IEEE International Conference on Consumer Electronics - Taiwan (ICCE-TW 2019, Full Paper)
 
 
 
