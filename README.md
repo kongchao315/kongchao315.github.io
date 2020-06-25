@@ -1,7 +1,7 @@
 ## Chao Kong(孔超)
 **Associate Professor, Master Supervisor, School of Computer and Information, Anhui Polytechnic University**
 
-Team: Machine Learning Research (MLR, unofficial organization)
+Lab: Machine Learning Research (MLR, unofficial organization)
 
 Position: Deputy director of department data science and engineering and discipline leader of Artificial Intelligence
 
@@ -57,7 +57,7 @@ School of Mathematics and Computer Science
 * **2015**
   + ACID Encountering the CAP Theorem: Two Bank Case Studies. **Chao Kong**, Ming Gao, Weining Qian, Minqi Zhou, Xueqing Gong, Rong Zhang, Aoying Zhou. 12th Web Information System and Application Conference (WISA 2015, Full Paper)
   
-### ***Selected Awards and Guidance of Subject Contest***
+### ***Selected Awards and Foundations***
 * June 2020: AHPU 2020 Talent Cultivation Program
 * April 2020: 
   + ***Honorable Mention*** Prize in MCM/ICM
@@ -67,6 +67,9 @@ School of Mathematics and Computer Science
   + ***Meritorious Winner*** Prize in MCM/ICM
   + ***Successful Participant*** Prize in MCM/ICM 
   + ***Third*** Prize in Mathematical Modeling Contest for College Students
+ * January 2020: National Natural Science Foundation of China Youth Fund 
+ * November 2019: Pre-research Project of National Natural Science Foundation of China 
+ * October 2017: Initial Scientific Research Fund of Introduced Talentsin Anhui Polytechnic University
 
 ### ***Activities***
 **Conference Presentation**
