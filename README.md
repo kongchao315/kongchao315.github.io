@@ -61,9 +61,16 @@ School of Mathematics and Computer Science
   + ***Honorable Mention*** Prize in MCM/ICM
   + ***Successful Participant*** Prize in MCM/ICM 
   + ***Successful Participant*** Prize in MCM/ICM 
-* April 2029: 
+* April 2019: 
   + ***Meritorious Winner*** Prize in MCM/ICM
   + ***Successful Participant*** Prize in MCM/ICM 
   + ***Third*** Prize in Mathematical Modeling Contest for College Students
+
+### ***Activities***
+**Conference Presentation**
+* 2019: SCDS 2019 (Fukuoka, Japan), CSoNet 2019 (Ho Chi Minh, Vietnam), ICCE-TW 2019 (Yilan, Taiwan), WISA 2019 (Qingdao, China), BigDIA 2019 (Kunming, China)
+* 2018: CSoNet 2018 (Shanghai, China)
+* 2016: DASFAA 2016 (Dallas, USA)
+* 2015: WISA 2015 (Jinan, China)
 
 
