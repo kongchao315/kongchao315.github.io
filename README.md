@@ -36,7 +36,9 @@ School of Mathematics and Computer Science
 ### ***Selected Publications***
 
 * **2020**
-  + DEM: Deep Entity Matching across Heterogeneous Information Networks, **Chao Kong**, Baoxiang Chen, Liping Zhang, Journal of Computer Science and Technology (**JCST**, Research Article)
+  + DEM: Deep Entity Matching across Heterogeneous Information Networks. **Chao Kong**, Baoxiang Chen, Liping Zhang, Journal of Computer Science and Technology (**JCST**, Research Article)
+  
+* **2019**
 
 
 
