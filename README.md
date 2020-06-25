@@ -33,13 +33,13 @@ School of Mathematics and Computer Science
 
 **Supervisor:** Prof. Yong Xu
 
-### ***Selected Publications***[DBLP](https://dblp.org/pers/hd/k/Kong:Chao)
+### ***Selected Publications***[\[DBLP\]](https://dblp.org/pers/hd/k/Kong:Chao)
 
 * **2020**
-  + DEM: Deep Entity Matching across Heterogeneous Information Networks. **Chao Kong**, Baoxiang Chen, Liping Zhang, Journal of Computer Science and Technology (**JCST**, Research Article)
+  + DEM: Deep Entity Matching across Heterogeneous Information Networks. **Chao Kong**, Baoxiang Chen, Liping Zhang. Journal of Computer Science and Technology (**JCST**, Research Article)
   
 * **2019**
-
+  + EnAli: entity alignment across multiple heterogeneous data sources. **Chao Kong**, Ming Gao, Chen Xu, Yunbin Fu, Weining Qian, Aoying Zhou. Frontiers of Computer Science(**FCS**, Research Article)
 
 
 
