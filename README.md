@@ -22,8 +22,7 @@ School of Software Engineering
 **Supervisor:** Prof. Aoying Zhou
 
 **Thesis:** Entity Matching across Multiple Heterogeneous Open Data Sources
-
-
+---
 
 
 
