@@ -76,26 +76,33 @@ School of Mathematics and Computer Science
 ### ***Primary Courses***
 * Software Project Management (2020 Spring)
 * Introduction to Information Management and Information System (2020 Spring)
+
 ***
+
 * Software Project Management (2019 Spring)
 * Introduction to Information Management and Information System (2019 Spring)
 * Introduction to Software Engineering (2019 Spring)
 * Introduction to Data Science and Engineering (2019 Spring)
 * Data Ming (2019 Autumn)
 * Mobile Cloud Computing (2019 Autumn)
+
 ***
+
 * Software Project Management (2018 Spring)
 * Introduction to Information Management and Information System (2018 Spring)
 * Introduction to Software Engineering (2018 Spring)
 * Introduction to Data Science and Engineering (2018 Spring)
 * Data Ming (2018 Autumn)
 * Mobile Cloud Computing (2018 Autumn)
+
 ***
+
 * Data Ming (2017 Autumn)
 
 ### ***Academic Services***
 * Conference Session Chair: CSoNet 2019
 * Journal Reviewer: IEEE Accsee (2020), Journal of East China Normal University (Natural Sciences)
 
+Last updated: June 2020
 
 
