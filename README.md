@@ -73,4 +73,24 @@ School of Mathematics and Computer Science
 * 2016: DASFAA 2016 (Dallas, USA)
 * 2015: WISA 2015 (Jinan, China)
 
+### ***Primary Courses***
+* Software Project Management (2020 Spring)
+* Introduction to Information Management and Information System (2020 Spring)
+***
+* Software Project Management (2019 Spring)
+* Introduction to Information Management and Information System (2019 Spring)
+* Introduction to Software Engineering (2019 Spring)
+* Introduction to Data Science and Engineering (2019 Spring)
+* Data Ming (2019 Autumn)
+* Mobile Cloud Computing (2019 Autumn)
+***
+* Software Project Management (2018 Spring)
+* Introduction to Information Management and Information System (2018 Spring)
+* Introduction to Software Engineering (2018 Spring)
+* Introduction to Data Science and Engineering (2018 Spring)
+* Data Ming (2018 Autumn)
+* Mobile Cloud Computing (2018 Autumn)
+***
+* Data Ming (2017 Autumn)
+
 
