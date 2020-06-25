@@ -40,6 +40,7 @@ School of Mathematics and Computer Science
   
 * **2019**
   + EnAli: entity alignment across multiple heterogeneous data sources. **Chao Kong**, Ming Gao, Chen Xu, Yunbin Fu, Weining Qian, Aoying Zhou. Frontiers of Computer Science(**FCS**, Research Article)
+  + Drug Abuse Detection via Broad Learning. **Chao Kong**, Jianye Liu, Hao Li, Ying Liu, Haibei Zhu, Tao Liu. Web Information Systems and Applications - 16th International Conference (WISA 2019, Full Paper)
 
 
 
