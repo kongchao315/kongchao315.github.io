@@ -1,6 +1,8 @@
 ## Chao Kong(孔超)
 **Associate Professor, Master Supervisor, School of Computer and Information, Anhui Polytechnic University**
 
+Team: Machine Learning Research (MLR, unofficial organization)
+
 Position: Deputy director of department data science and engineering and discipline leader of Artificial Intelligence
 
 Address: Room 720, C Building, 8 Central Beijing Road, Wuhu, Anhui, 241000, China
