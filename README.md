@@ -25,3 +25,16 @@ School of Software Engineering
 
 ***
 
+**B.Eng., Anhui Normal University** 
+
+School of Mathematics and Computer Science
+
+**Major:** Software Engineering (Data Science and Engineering) 
+
+**Supervisor:** Prof. Yong Xu
+
+### ***Selected Publications***
+
+
+
+
