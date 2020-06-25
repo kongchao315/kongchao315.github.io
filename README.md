@@ -1,14 +1,28 @@
 ## Chao Kong(孔超)
-***
 **Lecture, School of Computer and Information, Anhui Polytechnic University**
 
-You can use the [editor on GitHub](https://github.com/kongchao315/kongchao315.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Position: Deputy director of department data science and engineering and discipline leader of Artificial Intelligence
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Address: Room 720, C Building, 8 Central Beijing Road, Wuhu, Anhui, 241000, China
 
-### Markdown
+Email: kongchao at ahpu dot edu dot cn
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Biography
+Chao Kong is a lecture at School of computer and Information, Anhui Polytechnic University. Prior to joining AHPU, he received his PhD degree from the Institute for Data Science and Engineering, East China Normal University, China in 2017. His research interests include web data management, streaming data processing, social network analysis and data mining. He has published 10+ research papers in international conferences and journals. His work appears in major international journals and conferences including JCST, FCS, DASFAA, SCDS, ICCE, etc.
+
+The Curriculum Vitae (CV) of Chao Kong can be found [HERE](url)
+
+### ***Education***
+**Ph.D., East China Normal University**<p align="right">Sept 2015-June 2020</p>
+
+School of Software Engineering
+Major: Software Engineering (Data Science and Engineering) (Overall GPA: 90.29/100 Major GPA: 90.44/100)
+Supervisor: Prof. Xiaofeng He
+Thesis: Algorithmic Studies on Relation Extraction from Chinese Short Texts
+Won National Scholarship for PhD Students three times (2016, 2017, 2019), ECNU President Scholarship (2019) and Shanghai Outstanding Graduate (2020) 
+
+
+
 
 ```markdown
 Syntax highlighted code block
