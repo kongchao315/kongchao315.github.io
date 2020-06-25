@@ -57,6 +57,9 @@ School of Mathematics and Computer Science
   
 ### ***Selected Awards and Scholarships***
 * June 2020: AHPU 2020 Talent Cultivation Program
-* April 2020: ***Honorable Mention*** Prize in MCM/ICM, ***Successful Participant*** Prize in MCM/ICM $\times$2
+* April 2020: 
+  + ***Honorable Mention*** Prize in MCM/ICM
+  + ***Successful Participant*** Prize in MCM/ICM 
+  + ***Successful Participant*** Prize in MCM/ICM 
 
 
