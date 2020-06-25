@@ -45,6 +45,14 @@ School of Mathematics and Computer Science
   + Anonymized User Linkage Under Differential Privacy. **Chao Kong**, Hao Li, Haibei Zhu, Yu Xiu, Jianye Liu, Tao Liu. Soft Computing in Data Science - 5th International Conference (SCDS 2019, Full Paper)
   + Multi-agent Negotiation in Real-time Bidding. **Chao Kong**, Haibei Zhu, Hao Li, Jianye Liu, Zheng Wang, Yinliang Qian. 2019 IEEE International Conference on Consumer Electronics - Taiwan (ICCE-TW 2019, Full Paper)
   + An Effective Construction Pattern of Wireless Sensor Network for Water Quality Detection. Baoxiang Chen, **Chao Kong<sup>*</sup>**, Yu Xiu, Liping Zhang, Sanming Liu, Tao Liu. 2019 IEEE International Conference on Consumer Electronics - Taiwan (ICCE-TW 2019, Full Paper)
+  
+* **2018**
+  + User Linkage Across Anonymizd Social Networ. **Chao Kong**, Wan Tao, Sanming Liu, Qiang Zhang. Computational Data and Social Networks - 7th International Conference (CSoNet 2018, Full Paper)
 
+* **2016**
+  + Entity Matching Across Multiple Heterogeneous Data Sources. **Chao Kong**, Ming Gao, Chen Xu, Weining Qian, Aoying Zhou. Database Systems for Advanced Applications - 21st International Conference (DASFAA 2016, Full Paper)
+  
+* **2015**
+  + ACID Encountering the CAP Theorem: Two Bank Case Studies. **Chao Kong**, Ming Gao, Weining Qian, Minqi Zhou, Xueqing Gong, Rong Zhang, Aoying Zhou. 12th Web Information System and Application Conference (WISA 2015, Full Paper)
 
 
