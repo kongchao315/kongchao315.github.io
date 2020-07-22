@@ -39,6 +39,8 @@ School of Mathematics and Computer Science
 
 * **2020**
   + DEM: Deep Entity Matching across Heterogeneous Information Networks. **Chao Kong**, Baoxiang Chen, Liping Zhang. Journal of Computer Science and Technology (**JCST**, Research Article)
+  + An Advanced Q-learning Model for Multi-agent Negotiation in Real-time Bidding. **Chao Kong**, Baoxiang Chen et al. (WISA 2020)
+  + GNE: Generic Heterogeneous Information Network Embedding. **Chao Kong**, Baoxiang Chen et al. (WISA 2020)
   
 * **2019**
   + EnAli: entity alignment across multiple heterogeneous data sources. **Chao Kong**, Ming Gao, Chen Xu, Yunbin Fu, Weining Qian, Aoying Zhou. Frontiers of Computer Science(**FCS**, Research Article)
