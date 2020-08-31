@@ -12,7 +12,7 @@ Address: Room 720, C Building, 8 Central Beijing Road, Wuhu, Anhui, 241000, Chin
 Email: kongchao at ahpu dot edu dot cn
 
 ### Biography
-Chao Kong is a lecture at School of Computer and Information, Anhui Polytechnic University. Prior to joining AHPU, he received his PhD degree from the Institute for Data Science and Engineering, East China Normal University, China in 2017. His research interests include web data management, streaming data processing, social network analysis, and data mining. He has published 10+ research papers in international conferences and journals. His work appears in major international journals and conferences including JCST, FCS, DASFAA, SCDS, ICCE, etc.
+Chao Kong is a associate professor at School of Computer and Information, Anhui Polytechnic University. Prior to joining AHPU, he received his PhD degree from the Institute for Data Science and Engineering, East China Normal University, China in 2017. His research interests include web data management, streaming data processing, social network analysis, and data mining. He has published 10+ research papers in international conferences and journals. His work appears in major international journals and conferences including JCST, FCS, DASFAA, SCDS, ICCE, etc.
 
 The Curriculum Vitae (CV) of Chao Kong can be found [HERE](URL)
 
