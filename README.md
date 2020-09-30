@@ -5,7 +5,7 @@ Lab: C720-Data Mining Research (DMR, unofficial organization)
 
 Position: Associate Chair of the Department of Data Science and Engineering
 
-Research interests: artificial intelligence, data mining, social networks , machine learning and knowledge graph, with an emphasis on designing new algorithms for mining social and knowledge networks.
+Research interests: artificial intelligence, data mining, social networks, machine learning and knowledge graph, with an emphasis on designing new algorithms for mining social and knowledge networks.
 
 Address: Room 720, C Building, 8 Central Beijing Road, Wuhu, Anhui, 241000, China
 
