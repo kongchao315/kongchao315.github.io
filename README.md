@@ -1,7 +1,7 @@
 ## Chao Kong(孔超)
 **Associate Professor, Master Supervisor, School of Computer and Information, Anhui Polytechnic University**
 
-Lab: Machine Learning Research (MLR, unofficial organization)
+Lab: C720-Data Mining Research (DMR, unofficial organization)
 
 Position: Associate Chair of the Department of Data Science and Engineering
 
