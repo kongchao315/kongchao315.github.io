@@ -91,6 +91,10 @@ School of Mathematics and Computer Science
 * 2015: WISA 2015 (Jinan, China)
 
 ### ***Primary Courses***
+* Data Mining and Analysis (2020 Spring)
+
+***
+
 * Software Project Management (2020 Spring)
 * Introduction to Information Management and Information System (2020 Spring)
 
