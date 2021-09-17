@@ -14,7 +14,7 @@ Email: kongchao at ahpu dot edu dot cn
 ### Biography
 Chao Kong is a associate professor at School of Computer and Information, Anhui Polytechnic University. Prior to joining AHPU, he received his Ph.D. degree from the Institute for Data Science and Engineering, East China Normal University, China in 2017. His research interests include web data management, streaming data processing, social network analysis, and data mining. He has published 10+ research papers in international conferences and journals. His work appears in major international journals and conferences including JCST, FCS, DASFAA, SCDS, ICCE, etc.
 
-The introduction of DBR Group can be found [HERE](https://github.com/kongchao315/kongchao315.github.io/blob/master/C720-DMR.pdf)
+The introduction of DMR Group can be found [HERE](https://github.com/kongchao315/kongchao315.github.io/blob/master/C720-DMR.pdf)
 
 ### ***Education***
 **Ph.D., East China Normal University** (Sept 2012-June 2017)
