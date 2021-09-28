@@ -41,8 +41,9 @@ School of Mathematics and Computer Science
 
 * **2021**
   + Privacy Attack in Multiplex Network Embedding Model. **Chao Kong**, Baoxiang Chen, Liping Zhang. Journal of Combinatorial Optimization (**JOCO**, Research Article)
-  + Adaptive High-order Relations Modeling for Social Recommendation. **Chao Kong**, Shaoying Li et al. (Apweb-Waim 2021, Full Paper)
-  + Spatiotemporal Data Forecasting for Biological Invasion Detection. Shaoying Li, **Chao Kong** et al. (NDBC 2021, Full Paper)
+  + 基于高阶隐式关系建模的社交推荐系统. 李邵莹, **孔超**等. (软件学报, 长文，***审稿中***)
+  + Spatiotemporal Data Forecasting for Biological Invasion Detection. Shaoying Li, **Chao Kong** et al. (BigDIA 2021, Full Paper)
+  + Empowering Temporal Knowledge Graph Embedding via Self-attention. (DASFAA 2021, Full Paper, ***submission***)
   
 * **2020**
   + DEM: Deep Entity Matching across Heterogeneous Information Networks. **Chao Kong**, Baoxiang Chen, Liping Zhang. Journal of Computer Science and Technology (**JCST**, Research Article)
@@ -68,6 +69,14 @@ School of Mathematics and Computer Science
   
 * **2015**
   + ACID Encountering the CAP Theorem: Two Bank Case Studies. **Chao Kong**, Ming Gao, Weining Qian, Minqi Zhou, Xueqing Gong, Rong Zhang, Aoying Zhou. 12th Web Information System and Application Conference (WISA 2015, Full Paper)
+ 
+### ***Selected Projects***
++ 面向互联网开放数据的实体匹配及其应用研究,No.xxx,国家自然科学基金委员会,2019.08,类别:二类,完成人排名:第一,在研
++ 数据驱动的实体匹配算法研究,No.xxx,安徽工程大学,2017.11,类别:五类,完成人排名:第一,结题
++ 面向异构开放数据的实体匹配及其应用研究,No.xxx,安徽工程大学,2019.03,类别:五类,完成人排名:第一,结题
++ 面向混合类型数据的同步聚类模型及算法研究,No.xxx,安徽省教育厅,2019.06,类别:三类,完成人排名:第五,在研
++ 基于行为决策理论的靶向粒子植入过程机器人动态进针机理及策略研究,No.xxx,安徽省教育厅,2019.06,类别:三类,完成人排名:第五,在研
++ 近距离放射性粒子植入机器人关键技术研究,No.xxx,芜湖市科学技术局,2018.07,类别:四类,完成人排名:第五,结题
   
 ### ***Selected Awards and Foundations***
 * June 2020: AHPU 2020 Talent Cultivation Program
