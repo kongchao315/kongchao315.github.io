@@ -39,11 +39,17 @@ School of Mathematics and Computer Science
 
 ### ***Selected Publications***[\[DBLP\]](https://dblp.org/pers/hd/k/Kong:Chao)
 
+* **2022**
+   + Temporal Knowledge Graph Embedding for Link Prediction. Yi Zhang, Dan Meng, Liping Zhang, **Chao Kong**. (WISA 2022, Submit)
+   + Privacy Attack in Multiplex Network Embedding.**Chao Kong**, Dan Meng et al.(Apweb-Waim 2022, Submit)
+   + Deep Frame-Point Sequence Consistent Network for Handwriting Trajectory Recovery.**Chao Kong**, Dan Meng et al. (Apweb-Waim 2022, Submit)
+   + Privacy-preserving Temporal Knowledge Graph Embedding. **Chao Kong**, Dan Meng et al. (Knowledge and Information System, Submit)
+   + Temporal Knowledge Graph Embedding for Link Prediction. **Chao Kong**, Dan Meng et al. (Knowledge-based System, Submit)
+
 * **2021**
-  + Privacy Attack in Multiplex Network Embedding Model. **Chao Kong**, Baoxiang Chen, Liping Zhang. Journal of Combinatorial Optimization (**JOCO**, Research Article,***submission***)
-  + 基于高阶隐式关系建模的社交推荐系统. 李邵莹, **孔超**等. (软件学报, 长文，***审稿中***)
+  + 面向社交推荐的自适应高阶隐式关系家面膜. 李邵莹, **孔超**等. (软件学报)
   + Spatiotemporal Data Forecasting for Biological Invasion Detection. Shaoying Li, **Chao Kong** et al. (BigDIA 2021, Full Paper)
-  + Empowering Temporal Knowledge Graph Embedding via Self-attention. (DASFAA 2021, Full Paper, ***submission***)
+  + Empowering Temporal Knowledge Graph Embedding via Self-attention. (IEEE Transactions on Knowledge and Data Engineering, Submit)
   
 * **2020**
   + DEM: Deep Entity Matching across Heterogeneous Information Networks. **Chao Kong**, Baoxiang Chen, Liping Zhang. Journal of Computer Science and Technology (**JCST**, Research Article)
